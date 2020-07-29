@@ -1,0 +1,22 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: E883-76C5
+
+ Directorio de C:\Users\User\Downloads\carpetas
+
+03/07/2020  01:45 a. m.    <DIR>          .
+03/07/2020  01:45 a. m.    <DIR>          ..
+03/07/2020  01:44 a. m.    <DIR>          cpp
+03/07/2020  01:45 a. m.                 0 dir.txt
+03/07/2020  01:44 a. m.    <DIR>          exe
+03/07/2020  01:44 a. m.    <DIR>          o
+26/06/2019  08:03 p. m.                 0 pra.rar
+03/07/2020  01:44 a. m.             4,751 Pruebas.cpp
+03/07/2020  01:45 a. m.         1,059,008 Pruebas.exe
+03/07/2020  01:45 a. m.            17,528 Pruebas.o
+03/07/2020  01:44 a. m.    <DIR>          rar
+03/07/2020  01:35 a. m.               426 test.cpp
+03/07/2020  01:36 a. m.         1,050,674 test.exe
+03/07/2020  01:36 a. m.             2,649 test.o
+03/07/2020  01:44 a. m.    <DIR>          txt
+               8 archivos      2,135,036 bytes
+               7 dirs  39,103,344,640 bytes libres
